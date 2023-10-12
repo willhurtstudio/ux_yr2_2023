@@ -1,0 +1,29 @@
+body {
+    background-color: powderblue;
+}
+
+p{
+    background-color: green;
+    border-style: double;
+    border-width: 50px;
+    border-color: lawngreen;
+}
+p:hover {
+    background-color: yellow;
+    border-width: 5px;
+    border-color: orange;
+
+  }
+
+#myPara{
+    text-align: right;
+}
+
+.myClass{
+    color:turquoise;
+}
+
+.myImage{
+    border: 10px double red;
+}
+
